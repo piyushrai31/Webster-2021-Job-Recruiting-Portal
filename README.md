@@ -1,3 +1,3 @@
-# Webster-2021-Job-Recruiting-Portal
+# WEBSTER-2020
 
-The basic idea behind this project was to make a common platform for the recruiters and the students to interact with each other.
+Team Name: Run_time_Terror
